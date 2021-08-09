@@ -13,7 +13,7 @@ This project demonstrates social media auth integration using passport authentic
 ```properties
     npm run dev
 ```
-* Open browser then go to http://localhost:3000
+* Open browser then go to http://localhost:3000/profile
 
 ## File Structure
 

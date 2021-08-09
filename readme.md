@@ -14,6 +14,8 @@ This project demonstrates social media auth integration using passport authentic
     npm run dev
 ```
 * Open browser then go to http://localhost:3000/profile
+* For swagger api documentation visit
+http://localhost:3000/swagger
 
 ## File Structure
 

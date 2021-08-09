@@ -5,10 +5,14 @@ This project demonstrates social media auth integration using passport authentic
 ```properties
     npm install
 ``` 
+* setup .env file.
+
 * Run mongoDB from console
  ```properties
     mongod
 ```
+
+
 * Run project
 ```properties
     npm run dev
